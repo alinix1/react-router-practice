@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.nav-active {
+  color: grey;
+  font-weight: bold;
+}
